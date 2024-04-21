@@ -14,7 +14,7 @@
     background-color: darkblue;
     height: 50px;
 }
-a, .text
+a
 {
     color: white;
     margin: 10px;
@@ -26,6 +26,7 @@ li
 }
 .content1
 {
+    color: white;
     margin: 20px;
     background-color: black;
 }
