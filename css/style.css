@@ -1,0 +1,20 @@
+.container
+{
+    display: flex;
+    justify-content: space-around;
+}
+.header
+{
+    background-color: darkblue;
+    height: 50px;
+}
+a
+{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+li
+{
+    list-style: none;
+}
